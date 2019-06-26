@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>C:/Users/95279/Documents/Gridea/output</id>
+    <id>http://heartfire.tech</id>
     <title>Heart&apos;s blog</title>
-    <updated>2019-06-26T16:14:15.390Z</updated>
+    <updated>2019-06-26T16:23:56.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="C:/Users/95279/Documents/Gridea/output"/>
-    <link rel="self" href="C:/Users/95279/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="http://heartfire.tech"/>
+    <link rel="self" href="http://heartfire.tech/atom.xml"/>
     <subtitle>自我管理&amp;体重控制|2019</subtitle>
-    <logo>C:/Users/95279/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>C:/Users/95279/Documents/Gridea/output/favicon.ico</icon>
+    <logo>http://heartfire.tech/images/avatar.png</logo>
+    <icon>http://heartfire.tech/favicon.ico</icon>
     <rights>All rights reserved 2019, Heart&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>C:/Users/95279/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="C:/Users/95279/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>http://heartfire.tech/post/hello-gridea</id>
+        <link href="http://heartfire.tech/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
